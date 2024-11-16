@@ -1,0 +1,9 @@
+Group: Carlos, Pepa, Ana, Javier, Tomás, Teresa, Pablo
+Carlos - Pepa
+Javier - Ana
+Ana - Tomás
+Carlos - Tomás
+Pablo - Teresa
+Teresa - Carlos
+Javier - Teresa
+Teresa - Ana
